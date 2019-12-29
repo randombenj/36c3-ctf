@@ -11,6 +11,8 @@ shows, how many letters match the flag. The bad part: This request is rate limit
 per IP, so brute force is not really an option here, except there is a problem in
 the bruteforce prevention.
 
+The mutation requries a header to be sent with the request. The header key must be `admin`, the value can be anything.
+
 As we try out different thinks to trick the bruteforce prevention, we were very
 desperate and just brute force the flag with the help of our good friend Tor. After
 every request, we than ask Tor to give us a new IP. This is a very hacky solution,
