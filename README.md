@@ -11,3 +11,10 @@ Thanks to the collaborators:
  - [@dev-jan](https://github.com/dev-jan)
  - [@eddex](https://github.com/eddex)
  - [@Lextum](https://github.com/Lextum)
+
+
+## Scoreboard
+
+We managed to place ourselves on rank 44 from a total of 817 registered teams (237 teams solved at least 1 challenge)
+
+![scoreboard.jpg](scoreboard.jpg)
