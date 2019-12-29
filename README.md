@@ -8,6 +8,6 @@ All the challenges can be found on https://kuchenblech.xyz/
 
 Thanks to the collaborators:
 
-@dev-jan
-@eddex
-@Lextum
+ - [@dev-jan](https://github.com/dev-jan)
+ - [@eddex](https://github.com/eddex)
+ - [@Lextum](https://github.com/Lextum)
